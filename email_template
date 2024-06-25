@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html style="margin: 0;
+                padding: 0;
+                border: 0;">
+    <head>
+
+    </head>
+    <body style="font-family: Arial, sans-serif;
+                background-color: #f0f0f0;">
+        <div style="max-width: 600px;
+                margin: 0 auto;
+                padding: 20px;
+                background-color: #fff;
+                border-radius: 5px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" class="container">
+            <div style="text-align: center;
+                padding-bottom: 20px;
+                padding-top: 20px;"class="logo"><img style="max-width: 200px;" src="https://developerdesk.tech/wordpress/newpeesah/wp-content/uploads/2024/05/PB-TEXT-SIDE-FINAL-LOGO-WHITE-1.png" alt="PeesahBazar" /></div>
+            <div style="padding: 20px;
+                color: #333;" class="content">
+                <h2 style="color: #007bff;">Dear USername,<br \ /></h2>
+                <p style="font-size: 16px;
+                line-height: 1.5;">Welcome to Peesah Bazar, where every pencil purchase opens the door to amazing cashback rewards! Get ready for an electrifying shopping journey filled with discounts and the chance to win big.</p>
+                <p style="font-size: 16px;
+                line-height: 1.5;">Stay tuned for exclusive deals and mind-blowing cashback opportunities. Let the excitement begin!</p>
+                <br/>
+                <p style="font-size: 16px;
+                line-height: 1.5;">Regards,</p>
+                <p style="font-size: 16px;
+                line-height: 1.5;">Peesah Bazar</p>
+                <br/>
+                <p style="font-size: 16px;
+                line-height: 1.5;">Disclaimer: Review terms & conditions as cashback programs may involve risks.</p>
+                <p style="font-size: 16px;
+                line-height: 1.5;"> Unsubscribe at <a style="display: inline-block;
+                padding: 10px 20px;
+                background-color: #007bff;
+                color: #fff;
+                text-decoration: none;
+                border-radius: 5px;--hover-background-color: #0056b3;" class="button" href="#"> Here</a></p>
+                
+            </div>
+        </div>
+    </body>
+</html>
